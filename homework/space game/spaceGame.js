@@ -24,7 +24,6 @@ console.log(
 	`\n\n*************************\nThe year is 3789. \nHumanity is on the brink of destruction.\nYou are the last survivor of the United Human Space Naval Fleet.\nThe enemy is closing in...\n\n*************************`);
 let shipName = prompt("What is your ship's name? ");
 // let shipName = 'A DEFAULT NAME';
-// just making a change
 
 ////////////////////////////
 // VARIABLES | CLASSES | FUNCTION
